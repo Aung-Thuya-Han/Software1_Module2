@@ -1,6 +1,6 @@
 import math
 
-radius = int(input("Enter the radius of a circle: "))
+radius = float(input("Enter the radius of a circle: "))
 
 area_calculation = math.pi * ( radius * radius )
 
